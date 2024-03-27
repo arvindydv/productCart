@@ -1,0 +1,39 @@
+.conatiner {
+  width: 70%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.text-center {
+  text-align: center;
+}
+.box {
+  border: 5px solid black;
+  width: 44%;
+  padding: 15px;
+}
+.product {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: gray;
+  padding: 0px 15px;
+  margin-bottom: 10px;
+}
+.buttons {
+  background: cornflowerblue;
+  width: 65px;
+  padding: 7px 6px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 20px;
+}
+
+.cart {
+  border: 5px solid;
+  padding: 15px;
+  width: 35%;
+  height: 360px;
+}
